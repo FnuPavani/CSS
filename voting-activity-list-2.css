@@ -28,6 +28,7 @@
     background: #fff;
     width: 232px !important;
     height: 292px !important;
+    padding: 0px !important;
 }
 
 #activity-list-v2 .activity:hover {
