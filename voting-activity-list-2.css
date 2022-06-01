@@ -90,3 +90,7 @@
 #activity-list-v2 .ct-points-color {
     display: none !important;   
 }
+#activity-list-v2 ul {
+    width: 1100px !important;
+    padding: 0px !important;   
+}
