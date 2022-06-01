@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    src: url("./Knockout-49.otf") format("otf");  
+    src: url("/Knockout-49.otf") format("otf");  
 }
 body {
         background-color: #E5E5E5 !important;
