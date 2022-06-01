@@ -77,8 +77,14 @@
 }
 
 .ct-link-color {
-    font-size: 20px;
     color: #000000 !important;
+    font-family: 'Knockout' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    line-height: 80% !important;
+    text-transform: uppercase !important;
+    font-feature-settings: 'ss02' on !important;
 }
 
 .description {
