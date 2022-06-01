@@ -84,7 +84,8 @@
 .description {
     display: none !important;
 }
-#activity-list-v2 > div.container > ul > li:not(:first-child){
+/* #activity-list-v2 > div.container > ul > li:not(:first-child){ */
+#activity-list-v2 > div.container > ul > li{
     margin-left: 20px !important;
 }
 #activity-list-v2 .ct-points-color {
