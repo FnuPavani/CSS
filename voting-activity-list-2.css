@@ -1,4 +1,11 @@
 /* Activity List ----------- */
+@font-face {
+    font-family: 'Knockout';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    src: url("./Knockout-49.otf") format("opentype");  
+}
 *{
     box-sizing: unset !important;
 }
