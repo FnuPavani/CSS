@@ -24,7 +24,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    src: url("./SF-Pro-Display-Regular.otf") format("opentype");
+    src: url("./SF-Pro-Display-Bold.otf") format("opentype");
 } 
 @font-face {
     font-family: 'SF Pro Text';
