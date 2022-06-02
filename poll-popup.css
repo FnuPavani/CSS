@@ -139,7 +139,7 @@
       #poll-v2 > div.container > form > fieldset > div.question-container.question-type-radio > div > div.answer-container {
         display: flex !important;
         flex-direction: column !important;
-        align-items: center !important;
+/*         align-items: center !important; */
         padding: 8px !important;
         position: static !important;
         width: 614px !important;
@@ -152,9 +152,10 @@
         flex-grow: 0 !important;
       }
       #poll-v2 > div.container > form > fieldset > div.question-container.question-type-radio > div > div.answer-container > span > ul {
-        display: flex !important;
+          display: block !important;
+/*         display: flex !important;
         flex-direction: row !important;
-        align-items: flex-start !important;
+        align-items: flex-start !important; */
         padding: 0px !important;
         position: static !important;
         width: 336px !important;
@@ -164,7 +165,7 @@
         flex: none !important;
         order: 0 !important;
         flex-grow: 0 !important;
-        margin: 16px 0px !important;
+        margin: 0px !important;
       }
       #poll-v2 > div.container > form > fieldset > div.question-container.question-type-radio > div > div.answer-container > span > ul > li {
         display: flex !important;
@@ -179,7 +180,7 @@
         flex: none !important;
         order: 1 !important;
         flex-grow: 0 !important;
-        margin: 0px 16px !important;
+/*         margin: 0px 16px !important; */
       }
       #poll-v2 .question-type-radio label.answer-option-wrapper {
         display: flex !important;
@@ -207,7 +208,7 @@
         bottom: 16.67% !important;
         border: 1px solid #6F7274 !important;
       }
-      #a1text, #a2text {
+      .answer-option-text ng-binding {
         position: static !important;
         width: 132px !important;
         height: 17px !important;
