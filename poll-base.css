@@ -20,7 +20,7 @@
     src: url("/Roboto-Regular.ttf") format("ttf");
 } */
 body {
-        background-color: #E5E5E5 !important;
+        background-color: #F3F4F5 !important;
 }
 .widget .header {
         display: none !important;
