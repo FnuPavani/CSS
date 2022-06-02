@@ -3,28 +3,28 @@
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
-    src: url("./Knockout-46.otf") format("otf");  
+    src: url("./Knockout-46.otf") format("opentype");  
 }
 @font-face {
     font-family: 'Knockout';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    src: url("./Knockout-46.otf") format("otf");  
+    src: url("./Knockout-46.otf") format("opentype");  
 }
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    src: url("./Roboto-Regular.ttf") format("ttf");
+    src: url("./Roboto-Regular.ttf") format("truetype");
 } 
 @font-face {
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    src: url("./RobotoCondensed-Regular.ttf") format("ttf");
+    src: url("./RobotoCondensed-Regular.ttf") format("truetype");
 } 
 .widget .header {
         display: flex !important;
