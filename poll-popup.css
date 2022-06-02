@@ -323,3 +323,6 @@
         color: black !important;
         opacity: 1 !important;
       }
+#poll-v2 > div.container > form > fieldset > div.question-container.question-type-radio > div > div.answer-container > span > ul > li >label > span{
+    margin: 0px !important;
+}
