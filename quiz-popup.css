@@ -1,3 +1,38 @@
+@font-face {
+    font-family: 'Knockout';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    src: url("./Knockout-49.otf") format("opentype");  
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    src: url("./Roboto-Regular.ttf") format("truetype");
+} 
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    src: url("./RobotoCondensed-Regular.ttf") format("truetype");
+} 
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    src: url("./SF-Pro-Display-Regular.otf") format("opentype");
+} 
+@font-face {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    src: url("./SF-Pro-Text-Regular.otf") format("opentype");
+} 
 #ct-modal {
         display: flex !important;
         flex-direction: column !important;
