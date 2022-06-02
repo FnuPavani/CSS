@@ -6,7 +6,7 @@
     src: url("./Knockout-49.otf") format("opentype");  
 }
 body {
-        background-color: #E5E5E5 !important;
+        background-color: #F3F4F5 !important;
 }
 .widget .header {
         display: flex !important;
@@ -22,7 +22,7 @@ body {
         order: 0 !important;
         flex-grow: 0 !important;
         margin: 0px !important;
-        background-color: #E5E5E5 !important;
+        background-color: #F3F4F5 !important;
         border-bottom: none !important;
       }
       .widget .header h1 {
