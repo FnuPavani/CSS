@@ -226,7 +226,7 @@
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin: 4px 0px !important;
+        margin: 0px !important;
       }
       #poll-v2 .submit-container .points {
         display: none;
