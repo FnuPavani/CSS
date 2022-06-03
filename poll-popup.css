@@ -267,7 +267,12 @@
         flex-grow: 0 !important;
         margin: 0px 0px 0px 150px !important;
         color: #FFFFFF !important;
-        text-transform: capitalize;
+        text-transform: capitalize !important;
+        font-family: 'Roboto Condensed' !important;
+        font-style: normal !important;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        line-height: 100% !important;
       }
 #poll-v2 .question-container .image-wrapper {
     display: flex !important;
