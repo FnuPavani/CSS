@@ -218,3 +218,9 @@
 #quiz-v2 .question-container .image-wrapper img {
  margin-top: 30px !important;   
 }
+#poll-v2 .submit-container .points {
+  display: none !important;  
+}
+#quiz-v2 .submit-container .points {
+  display: none !important;  
+}
