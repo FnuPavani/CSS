@@ -65,10 +65,11 @@
 /*     margin: 0 5px; */
     text-align: left !important;
     margin-left: 5px !important;
+    padding: 0px !important;
 }
 
 #activity-list-v2 .activity .title {
-    margin: 10px 0 10px 0;
+/*     margin: 10px 0 10px 0; */
     text-align: center;
 }
 
@@ -78,7 +79,8 @@
 
 #activity-list-v2 .points-container {
     text-align: left !important;
-    margin-left: 16px !important;
+/*     margin-left: 5px !important; */
+    padding-top: 0px !important;
 }
 
 .ct-link-color {
@@ -109,6 +111,9 @@
 #activity-list-v2 .activity:hover {
     border: 1px solid #000 !important;
 }
-.point-value .ct-points-color .ng-binding {
+#activity-list-v2 .ct-points-color {
     display: none !important;
+}
+#activity-list-v2 .point-value.completed {
+    display: contents !important;
 }
