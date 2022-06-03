@@ -98,8 +98,11 @@
     display: none !important;
 }
 /* #activity-list-v2 > div.container > ul > li:not(:first-child){ */
-#activity-list-v2 > div.container > ul > li{
+/* #activity-list-v2 > div.container > ul > li{
     margin-left: 20px !important;
+} */
+#activity-list-v2 > div.container > ul > li:not(:last-child) {
+    margin-right: 2% !important;
 }
 #activity-list-v2 .ct-points-color {
     display: none !important;   
