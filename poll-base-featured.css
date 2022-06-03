@@ -177,9 +177,9 @@ body {
        #activity-list-v2 > div.header.ct-header-color {
             margin-bottom: 80px !important;
        }
-       #activity-list-v2 > div.container > ul > li:not(:first-child){
-            margin-left: 20px !important;
-       }
+        #activity-list-v2 > div.container > ul > li:not(:last-child) {
+            margin-right: 1.5% !important;
+        }
         #activity-list-v2 .activity:hover {
             border: 1px solid #000 !important;
         }
