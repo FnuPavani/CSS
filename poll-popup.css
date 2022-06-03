@@ -57,7 +57,7 @@
       .widget .header h1 {
         position: static !important;
         width: 598px !important;
-        height: 52px !important;
+        height: auto !important;
         left: calc(50% - 598px/2) !important;
         top: calc(50% - 52px/2 - 16.5px) !important;
         font-family: 'Knockout' !important;
