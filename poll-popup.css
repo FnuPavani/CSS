@@ -338,3 +338,6 @@
     font-size: 16px !important;
     line-height: 120% !important;
 }
+#poll-v2 .success-message > span {
+    font-size: 16px !important;
+}
