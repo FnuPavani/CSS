@@ -502,3 +502,6 @@
         align-self: stretch !important;
         flex-grow: 0 !important;
       }
+      .btn{
+        border-bottom-width: 0px !important;
+      }
