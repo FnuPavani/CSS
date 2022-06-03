@@ -62,8 +62,9 @@
     max-width: initial;
     max-height: 150px;
 /*     min-height: 110px; */
-    margin: 0 5px;
+/*     margin: 0 5px; */
     text-align: left !important;
+    margin-left: 5px !important;
 }
 
 #activity-list-v2 .activity .title {
@@ -72,10 +73,7 @@
 }
 
 #activity-list-v2 .ct-points-color {
-    margin: 5px 0 5px 0;
-    font-size: 18px;
-    font-family: 'Effra Heavy', sans-serif;
-    font-weight: bold;
+    margin-left: 5px !important;
 }
 
 #activity-list-v2 .points-container {
@@ -103,9 +101,6 @@
 } */
 #activity-list-v2 > div.container > ul > li:not(:last-child) {
     margin-right: 1.5% !important;
-}
-#activity-list-v2 .ct-points-color {
-    display: none !important;   
 }
 #activity-list-v2 ul {
     width: 1100px !important;
