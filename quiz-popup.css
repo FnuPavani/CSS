@@ -505,3 +505,13 @@
       .btn{
         border-bottom-width: 0px !important;
       }
+#quiz-v2
+        > div.container
+        > form
+        > fieldset
+        > div.submit-container
+        > button:hover {
+        background-color: white !important;
+        color: black !important;
+        opacity: 1 !important;
+      }
