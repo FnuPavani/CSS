@@ -224,3 +224,13 @@
 #quiz-v2 .submit-container .points {
   display: none !important;  
 }
+#survey-v2
+    > div.container
+    > form
+    > fieldset
+    > div.submit-container
+    > button:hover {
+    background-color: white !important;
+    color: black !important;
+    opacity: 1 !important;
+    }
