@@ -195,16 +195,7 @@
  margin-top: 30px !important;   
 }
 /* remove this later, just for the demo */
-#poll-v2 .question-container .image-wrapper img {
-    margin-top: 30px !important;
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    padding: 0px !important;
-    width: 160px !important;
-    height: 160px !important;
-    
-}
+
 #quiz-v2 .question-container .image-wrapper img {
     margin-top: 30px !important;
 }
@@ -214,8 +205,26 @@
 #quiz-v2 .submit-container .points {
   display: none !important;  
 }
-#poll-v2 .question-container .image-wrapper {
-    margin-top: 30px !important;
+#poll-v2 .question-container .image-wrapper img {
+    margin-top: 10px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    padding: 0px !important;
     width: 160px !important;
     height: 160px !important;
+    
+}
+#poll-v2 .question-container .image-wrapper {
+    margin-top: 10px !important;
+    width: 160px !important;
+    height: 160px !important;
+}
+#poll-v2 .answer-options .has-image {
+    width: auto !important;
+    padding: 0px !important;
+    margin-top: 10px !important;
+}
+#poll-v2 .answer-options {
+    text-align: center !important;
 }
