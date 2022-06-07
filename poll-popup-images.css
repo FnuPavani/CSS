@@ -231,7 +231,8 @@
     padding: 0px !important;
     width: 160px !important;
     height: 160px !important;
-    
+    max-width: 160px !important;
+    max-height: 160px !important;
 }
 #poll-v2 .question-container .image-wrapper {
     margin-top: 10px !important;
