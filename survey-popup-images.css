@@ -54,7 +54,7 @@
       #survey-v3 > div.header.ct-header-color {
         padding-bottom: 0px !important;
       }
-      .widget .header h1 {
+      .widget .header h1, h3 {
         position: static !important;
         width: 598px !important;
         height: auto !important;
