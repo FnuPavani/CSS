@@ -150,6 +150,7 @@
 
  .submit-container {
     float: none !important;
+    margin-bottom: 8px !important;
 }
 
  .submit-container button {
