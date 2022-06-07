@@ -250,3 +250,13 @@
     margin: 0px !important;
     margin-left: 10px !important;   
 }
+#quiz-v2
+        > div.container
+        > form
+        > fieldset
+        > div.submit-container
+        > button:hover {
+        background-color: white !important;
+        color: black !important;
+        opacity: 1 !important;
+      }
