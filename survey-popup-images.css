@@ -226,3 +226,40 @@
 #survey-v2 .question-container .image-wrapper img {
  margin-top: 30px !important;   
 }
+
+#survey-v2 .question-container .image-wrapper img {
+    margin-top: 10px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    padding: 0px !important;
+    width: 160px !important;
+    height: 160px !important;
+    
+}
+#survey-v2 .question-container .image-wrapper {
+    margin-top: 10px !important;
+    width: 160px !important;
+    height: 160px !important;
+}
+#survey-v2 .answer-options .has-image {
+    width: auto !important;
+    padding: 0px !important;
+    margin-top: 10px !important;
+}
+#survey-v2 .answer-options {
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    width: 530px !important;
+    justify-content: right !important;
+}
+#survey-v2 .question-container .question-text {
+    margin-bottom: 0px !important;
+    margin-top: 10px !important;
+}
+#question-text {
+    margin: 0px !important;
+    margin-left: 10px !important;   
+}
