@@ -254,3 +254,7 @@
     margin-bottom: 0px !important;
     margin-top: 10px !important;
 }
+#question-text {
+    margin: 0px !important;
+    margin-left: 10px !important;   
+}
