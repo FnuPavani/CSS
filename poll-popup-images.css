@@ -227,4 +227,9 @@
 }
 #poll-v2 .answer-options {
     text-align: center !important;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    width: 550px !important;
+    justify-content: center !important;
 }
