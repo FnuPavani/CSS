@@ -254,6 +254,6 @@
     color: black !important;
     opacity: 1 !important;
     }
-#survey-v3 .questions li:first-child .question-container {
+#survey-v3 .questions li .question-container {
     margin-top: 10px;
 }
