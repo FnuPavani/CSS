@@ -486,3 +486,6 @@
 #quiz-v2 .answer-options .answer-option-text {
     display: block !important;   
 }
+#quiz-v2 .answer-options input[type=radio] {
+    margin-top: 8px !important;
+}
