@@ -272,7 +272,7 @@
 #quiz-v2 .points-header {
     display: none !important;   
 }
-#poll-v2 .question-container .question-text {
+#quiz-v2 .question-container .question-text {
     position: static !important;
     width: 219px !important;
     height: 19px !important;
@@ -355,12 +355,12 @@
         flex-grow: 0 !important;
       }
       #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul {
-        text-align: center !important;
+/*         text-align: center !important;
         display: flex !important;
         flex-direction: row !important;
-        flex-wrap: wrap !important;
+        flex-wrap: wrap !important; */
         width: 530px !important;
-        justify-content: right !important;
+/*         justify-content: right !important; */
       }
       #quiz-v2 .buttons{
         display: flex !important;
