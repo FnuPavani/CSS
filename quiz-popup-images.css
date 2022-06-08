@@ -357,7 +357,8 @@
         top: 5% !important;
         left: 5% !important;
         vertical-align: middle !important;
-        margin-left: 20px !important;
+/*         margin-left: 20px !important; */
+         margin-left: 80px !important;
       }
       #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul {
 /*         text-align: center !important;
@@ -366,6 +367,7 @@
         flex-wrap: wrap !important; */
         width: 530px !important;
         margin-top: 10px !important;
+        margin-left: 120px !important;
 /*         justify-content: right !important; */
       }
       #quiz-v2 .buttons{
@@ -379,8 +381,9 @@
         flex: none !important;
         order: 1 !important;
         flex-grow: 0 !important;
-        margin-top: 0px !important;
+/*         margin-top: 0px !important; */
         justify-content: center !important;
+        margin-top: 50px !important;
       }
       #quiz-v2 .progress{
         display: flex !important;
@@ -484,6 +487,7 @@
 /*     width: auto !important;
     padding: 0px !important; */
     margin-top: 10px !important;
+    width: 200px !important;
 }
 #quiz-v2 .answer-options .answer-option-text {
     display: block !important;   
@@ -491,4 +495,5 @@
 #quiz-v2 .answer-options input[type=radio] {
     display: flex;
     margin-top: 12px !important;
+    margin-left: 60px !important;
 }
