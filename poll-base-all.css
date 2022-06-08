@@ -42,7 +42,7 @@
         flex-direction: column !important;
         padding: 0px 0px 16px !important;
         position: static !important;
-        width: 313px !important;
+        width: 323px !important;
         height: 270px !important;
         left: 0px !important;
         top: 0px !important;
@@ -63,8 +63,8 @@
         align-items: flex-start !important;
         padding: 10px !important;
         position: static !important;
-        width: 313px !important;
-        height: 206px !important;
+        width: 291px !important;
+        height: 174px !important;
         left: calc(50% - 323px/2) !important;
         top: 0px !important;
         flex: none !important;
