@@ -133,10 +133,10 @@
             margin-bottom: 80px !important;
        }
         #activity-list-v2 > div.container > ul > li:not(:last-child) {
-            margin-right: 1.5% !important;
+            margin-right: 1% !important;
         }
         #activity-list-v2 > div.container > ul > li {
-            margin-top: 1.5% !important;
+            margin-top: 1% !important;
         }
         #activity-list-v2 .activity:hover {
             border: 1px solid #000 !important;
