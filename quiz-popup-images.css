@@ -339,7 +339,7 @@
         vertical-align: 3px !important;
       } */
       #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul > li > div > label > span{
-        width: 574px !important;
+/*         width: 574px !important; */
         height: 17px !important;
         font-family: 'Roboto' !important;
         font-style: normal !important;
