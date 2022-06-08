@@ -168,25 +168,17 @@
     display: none;
 }
 
- .question-container .image-wrapper {
-    vertical-align: text-top !important;
+ #quiz-v2 .question-container .image-wrapper {
+    margin-top: 10px !important;
+    width: 160px !important;
+    height: 160px !important;
 
 }
 
  .answer-options .answer-option-text {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    vertical-align: middle;
-    /* width: 132px; */
-    /* height: 17px; */
-    font-family: 'Roboto';
-    font-style: normal;
+    display: inline-block;
     font-weight: 400;
-    font-size: 14px;
-    /* line-height: 120%; */
-    /* display: flex; */
-    align-items: center;
+    padding-left: 5px;
 }
 
  .question-type-radio label.answer-option-wrapper {
@@ -254,7 +246,15 @@
     margin-left: 20px !important;   
 }
 #quiz-v2 .question-container .image-wrapper img {
- margin-top: 30px !important;   
+    margin-top: 10px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    padding: 0px !important;
+    width: 160px !important;
+    height: 160px !important;
+    max-width: 160px !important;
+    max-height: 160px !important;
 }
 #quiz-v2 .submit-container .points {
   display: none !important;  
@@ -330,14 +330,14 @@
         margin: 0px 0px !important;
         color: #ffffff !important;
       }
-      #quiz-v2 .answer-options .answer-option-text {
+/*       #quiz-v2 .answer-options .answer-option-text {
         display: inline-block !important;
         padding: 0px !important;
         gap: 4px !important;
         width: 574px !important;
         height: 17px !important;
         vertical-align: 3px !important;
-      }
+      } */
       #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul > li > div > label > span{
         width: 574px !important;
         height: 17px !important;
