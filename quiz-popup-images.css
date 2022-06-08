@@ -353,6 +353,10 @@
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
+        position: absolute !important;
+        top: 5% !important;
+        left: 5% !important;
+        vertical-align: middle !important;
       }
       #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul {
 /*         text-align: center !important;
