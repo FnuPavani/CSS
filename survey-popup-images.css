@@ -221,14 +221,14 @@
     flex-grow: 0;
 }
 
-#survey-v2 .image-enabled .image-wrapper img {
+#survey-v3 .image-enabled .image-wrapper img {
     position: absolute;
     top: 75%;
 }
 .answer-options .answer-option-text {
     margin-left: 10px !important;   
 }
-#survey-v2 .question-container .image-wrapper img {
+#survey-v3 .question-container .image-wrapper img {
  margin-top: 30px !important;   
 }
 /* remove this later, just for the demo */
@@ -244,7 +244,7 @@
 #quiz-v2 .submit-container .points {
   display: none !important;  
 }
-#survey-v2
+#survey-v3
     > div.container
     > form
     > fieldset
@@ -254,3 +254,6 @@
     color: black !important;
     opacity: 1 !important;
     }
+#survey-v3 .questions li:first-child .question-container {
+    margin-top: 10px;
+}
