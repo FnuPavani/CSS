@@ -275,6 +275,6 @@
     margin: 0px !important;
     margin-left: 10px !important;   
 }
-.answer-options .answer-option-text {
+#poll-v2 .answer-options .answer-option-text {
   margin-left: 20px !important;   
 }
