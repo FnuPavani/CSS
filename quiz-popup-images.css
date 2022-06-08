@@ -488,38 +488,3 @@
 #quiz-v2 .submit-container .points {
   display: none !important;  
 }
-#quiz-v2 .questions li .question-container {
-    margin-top: 10px;
-}
-#quiz-v2 .question-container .image-wrapper img {
-    margin-top: 10px !important;
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    padding: 0px !important;
-    width: 160px !important;
-    height: 160px !important;
-    max-width: 160px !important;
-    max-height: 160px !important;   
-}
-#quiz-v2 .question-container .image-wrapper {
-    margin-top: 10px !important;
-    width: 160px !important;
-    height: 160px !important;    
-}
-#quiz-v2 .answer-options input[type=checkbox], #survey-v3 .answer-options input[type=radio] {
-    margin-right: 5px;
-}
-#quiz-v2 .answer-options .has-image {
-    width: auto !important;
-    padding: 0px !important;
-    margin-top: 10px !important;
-}
-#quiz-v2 .answer-options {
-    text-align: center !important;
-    display: flex !important;
-    flex-direction: row !important;
-    flex-wrap: wrap !important;
-    width: 530px !important;
-    justify-content: right !important;
-}
