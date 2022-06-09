@@ -159,3 +159,6 @@
 #activity-list-v2 .ct-points-color {
     display: none !important;
 }
+#activity-list-v2 .point-value.completed {
+    display: contents !important;
+}
