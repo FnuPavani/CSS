@@ -278,3 +278,13 @@
 #poll-v2 .answer-options .answer-option-text {
   margin-left: 20px !important;   
 }
+#poll-v2
+    > div.container
+    > form
+    > fieldset
+    > div.submit-container
+    > button:hover {
+    background-color: white !important;
+    color: black !important;
+    opacity: 1 !important;
+}
