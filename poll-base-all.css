@@ -153,3 +153,6 @@
            text-align: left !important;
 /*            position: absolute !important;         */
         }
+#activity-list-v2 .activity .title {
+    margin-top: 20px !important;   
+}
