@@ -196,6 +196,7 @@
     margin-left: auto;
     margin-right: auto;
     display: flow-root !important;
+    text-transform: capitalize !important;
 }
 
 .question-container input[type=text] {
@@ -230,19 +231,6 @@
 }
 #survey-v3 .question-container .image-wrapper img {
  margin-top: 30px !important;   
-}
-/* remove this later, just for the demo */
-#poll-v2 .question-container .image-wrapper img {
- margin-top: 30px !important;   
-}
-#quiz-v2 .question-container .image-wrapper img {
- margin-top: 30px !important;   
-}
-#poll-v2 .submit-container .points {
-  display: none !important;  
-}
-#quiz-v2 .submit-container .points {
-  display: none !important;  
 }
 #survey-v3
     > div.container
