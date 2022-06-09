@@ -497,3 +497,6 @@
     margin-top: 12px !important;
     margin-left: 60px !important;
 }
+#poll-v2 .submit-container button {
+    text-transform: capitalize !important;   
+}
