@@ -139,3 +139,13 @@
     position: absolute;
     top: 75%;
 }
+#survey-v3
+    > div.container
+    > form
+    > fieldset
+    > div.submit-container
+    > button:hover {
+    background-color: white !important;
+    color: black !important;
+    opacity: 1 !important;
+  }
