@@ -5,9 +5,6 @@
     font-size: 24px;
     src: url("./Knockout-49.otf") format("opentype");  
 }
-*{
-    box-sizing: unset !important;
-}
 .widget .header {
     display: none !important;
 }
