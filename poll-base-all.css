@@ -162,3 +162,6 @@
 #activity-list-v2 .point-value.completed {
     display: contents !important;
 }
+#activity-list-v2 > div.container > ul > li {
+    padding-bottom: 0px !important;
+}
