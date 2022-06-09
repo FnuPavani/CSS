@@ -156,3 +156,6 @@
 #activity-list-v2 .activity .title {
     margin-top: 20px !important;   
 }
+#activity-list-v2 .ct-points-color {
+    display: none !important;
+}
