@@ -288,3 +288,6 @@
     color: black !important;
     opacity: 1 !important;
 }
+#poll-v2 .submit-container button {
+    text-transform: capitalize !important;   
+}
