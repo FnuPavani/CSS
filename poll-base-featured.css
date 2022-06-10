@@ -106,7 +106,7 @@ body {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
-        padding: 10px !important;
+        padding: 15px !important;
         position: static !important;
         width: 291px !important;
         height: 174px !important;
@@ -169,7 +169,7 @@ body {
         flex-grow: 0 !important;
         margin: 0px !important;
         text-align: left !important;
-        margin-left: 8px !important;
+        margin-left: 10px !important;
       }
       #activity-list-v2 > div.container > ul > li > div.info-container > div {
         display: none;
@@ -190,7 +190,7 @@ body {
             position: absolute !important;        
         }
         #activity-list-v2 .point-value.completed .fa-check-circle {
-            margin-left: 16px !important;
+            margin-left: 18px !important;
             margin-right: 0px !important;
         }
         #activity-list-v2 .points-container {
