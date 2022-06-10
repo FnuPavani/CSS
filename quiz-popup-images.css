@@ -514,6 +514,7 @@
     background-color: white !important;
     color: black !important;
     opacity: 1 !important;
+    border: 1px solid #000 !important;
   }
 #quiz-v2 > div.container > form > fieldset > div > div.buttons__left:hover {
     background-color: black !important;
@@ -524,9 +525,11 @@
     background-color: white !important;
     color: black !important;
     opacity: 1 !important;
+    border: none !important;
   }
 #quiz-v2 > div.container > form > fieldset > div > div.buttons__left > button:hover {
     background-color: black !important;
     color: white !important;
     opacity: 1 !important;
+    border: none !important;
   }
